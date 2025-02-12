@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/comerite/static/css/main.4c6d780e.css",
+    "main.js": "/comerite/static/js/main.552ae6a3.js",
+    "static/js/373.badf947d.chunk.js": "/comerite/static/js/373.badf947d.chunk.js",
+    "static/media/HauntedVideo.mp4": "/comerite/static/media/HauntedVideo.cccff27a6ee97540a0f9.mp4",
+    "static/media/blog1.jpg": "/comerite/static/media/blog1.02bb385c68eb26b65b04.jpg",
+    "static/media/pumpkin.png": "/comerite/static/media/pumpkin.eaf8a3393a9935a270e5.png",
+    "static/media/ghost.png": "/comerite/static/media/ghost.bf9f93e7cbe120c911f8.png",
+    "static/media/haunted-house.png": "/comerite/static/media/haunted-house.531b11d240bab6d4a255.png",
+    "static/media/blog2.jpg": "/comerite/static/media/blog2.e4f36678f57e0443ac92.jpg",
+    "static/media/bats.png": "/comerite/static/media/bats.cfcc62e61262818a5bc7.png",
+    "static/media/HH.png": "/comerite/static/media/HH.99ef93107a3ec1ed9c60.png",
+    "static/media/witch.png": "/comerite/static/media/witch.d852f6691f9657d1f33e.png",
+    "static/media/blog3.jpg": "/comerite/static/media/blog3.e6d8d6f1a8b270ce5b22.jpg",
+    "index.html": "/comerite/index.html",
+    "main.4c6d780e.css.map": "/comerite/static/css/main.4c6d780e.css.map",
+    "main.552ae6a3.js.map": "/comerite/static/js/main.552ae6a3.js.map",
+    "373.badf947d.chunk.js.map": "/comerite/static/js/373.badf947d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c6d780e.css",
+    "static/js/main.552ae6a3.js"
+  ]
+}
