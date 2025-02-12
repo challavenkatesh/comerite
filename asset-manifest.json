@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/comerite/static/css/main.4c6d780e.css",
+    "main.css": "/comerite/static/css/main.922fac8c.css",
     "main.js": "/comerite/static/js/main.552ae6a3.js",
     "static/js/373.badf947d.chunk.js": "/comerite/static/js/373.badf947d.chunk.js",
     "static/media/HauntedVideo.mp4": "/comerite/static/media/HauntedVideo.cccff27a6ee97540a0f9.mp4",
@@ -14,12 +14,12 @@
     "static/media/witch.png": "/comerite/static/media/witch.d852f6691f9657d1f33e.png",
     "static/media/blog3.jpg": "/comerite/static/media/blog3.e6d8d6f1a8b270ce5b22.jpg",
     "index.html": "/comerite/index.html",
-    "main.4c6d780e.css.map": "/comerite/static/css/main.4c6d780e.css.map",
+    "main.922fac8c.css.map": "/comerite/static/css/main.922fac8c.css.map",
     "main.552ae6a3.js.map": "/comerite/static/js/main.552ae6a3.js.map",
     "373.badf947d.chunk.js.map": "/comerite/static/js/373.badf947d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c6d780e.css",
+    "static/css/main.922fac8c.css",
     "static/js/main.552ae6a3.js"
   ]
 }
