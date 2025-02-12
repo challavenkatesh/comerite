@@ -1,0 +1,47 @@
+/* Style for the Background Video */
+.background-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the video covers the screen without distortion */
+    z-index: -1; /* Places the video behind other content */
+  }
+  
+  /* Navigation Styles */
+  .navbar {
+    position: fixed; /* Keeps the navbar fixed on top of the page */
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1; /* Places the navbar in front of the video */
+    background:transparent;
+  }
+  
+  .navbar .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .navbar ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .navbar ul li {
+    color: white;
+    cursor: pointer;
+  }
+  
+  .navbar ul li:hover {
+    color: #ff8c00; /* Hover effect */
+  }
+  
