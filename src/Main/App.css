@@ -116,7 +116,6 @@ body {
 
 .pumpkin-image {
   margin-bottom: 20px; 
-  animation: move-left-to-right 10s ease-in-out infinite; 
 }
 
 .pumpkin-image img {
